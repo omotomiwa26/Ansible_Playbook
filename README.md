@@ -1,2 +1,3 @@
 # Ansible_Playbook
-This reo is for my ansible playbook and adhoc commands
+
+This repo is for my ansible playbook and adhoc commands
