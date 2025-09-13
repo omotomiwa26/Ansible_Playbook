@@ -1,9 +1,10 @@
-  name: create directory file on all nodes
+---
+- name: create directory file on all nodes
   hosts: Server1:Server2
 
   tasks:
-    name: create directory
+  - name: create directory
     file:
-      name: /home/ec2-user/opt/devops
+      path: /home/ec2-user/opt/devops
       state: directory
 ...
