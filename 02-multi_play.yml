@@ -1,6 +1,6 @@
 ---
-- name: Update Node1 servers
-  hosts: Node1
+- name: Update node1 servers
+  hosts: node1
 
   tasks:
   - name: Create Directory 
@@ -13,8 +13,8 @@
       path: /home/ec2-user/new_dir_1
       state: directory      
 
-- name: Update Node2 servers
-  hosts: Node2
+- name: Update node2 servers
+  hosts: node2
 
   tasks:
   - name: Create Directory 
