@@ -1,6 +1,6 @@
 ---
-- name: Update Node1 servers
-  hosts: Node1
+- name: Update node1 servers
+  hosts: node1
 
   tasks:
   - name: Create Directory 
