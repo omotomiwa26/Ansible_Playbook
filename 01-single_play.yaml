@@ -1,10 +1,10 @@
 ---
-  - name: update Node1 severs
-    hosts: Node1
+- name: Update Node1 servers
+  hosts: Node1
 
-    tasks:
-    - name: Create Directory
-      file:
-        path: /home/ec2-user/new_dir
-        state: Directory
-...
+  tasks:
+  - name: Create Directory 
+    file:
+      path: /home/ec2-user/new_dir
+      state: directory
+...      
