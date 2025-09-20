@@ -1,0 +1,10 @@
+---
+  name: update Node1 severs
+  hosts: Node1
+
+  tasks:
+  - name: Create Directory
+    files:
+      path: /home/ec2-user/new_dir
+      status: Directory
+...
