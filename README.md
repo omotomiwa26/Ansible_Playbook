@@ -10,7 +10,7 @@ From basic server configuration to deploying multi-tier applications and managin
 
 - [How to Use](https://github.com/omotomiwa26/Ansible_Playbook/blob/main/README.md)
 
-- ## Playbook Reference
+## Playbook Reference
 
 01. [Create a Single Directory](https://github.com/omotomiwa26/Ansible_Playbook/blob/main/01-create-directory.yml) 
 
