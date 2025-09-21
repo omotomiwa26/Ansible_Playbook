@@ -1,9 +1,0 @@
----
-- name: Deploy php App
-  hosts: node5
-  become: yes
-
-  roles:
-  - apache
-  - php
-...      
