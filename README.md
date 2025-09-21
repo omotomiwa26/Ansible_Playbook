@@ -181,4 +181,4 @@ You may need to use the `--become` or `-b` flag if the playbook requires adminis
 
     - Purpose: A simplified version of `01-create-directory.yml`, focused purely on the existence of a directory.
 
-    - Tasks: Uses the `ansible.builtin.fil`e module with `state: directory`.
+    - Tasks: Uses the `ansible.builtin.file` module with `state: directory`.
