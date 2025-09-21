@@ -1,0 +1,11 @@
+---
+- name: under maintenance page
+  hosts: node2
+  become: yes
+
+  tasks:
+  - name: Update maintenance page
+    copy:
+      src: Maintenance-page.html
+      dest: /var/www/html/index.html
+...
