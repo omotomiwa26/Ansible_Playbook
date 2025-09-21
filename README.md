@@ -12,37 +12,37 @@ From basic server configuration to deploying multi-tier applications and managin
 
 - Playbook Reference
 
-    - 01. [Create a Single Directory](https://github.com/omotomiwa26/Ansible_Playbook/blob/main/01-create-directory.yml) 
+01. [Create a Single Directory](https://github.com/omotomiwa26/Ansible_Playbook/blob/main/01-create-directory.yml) 
 
-    - 02. [Create Multiple Directories](https://github.com/omotomiwa26/Ansible_Playbook/blob/main/02-create-multiple-directories.yml)
+02. [Create Multiple Directories](https://github.com/omotomiwa26/Ansible_Playbook/blob/main/02-create-multiple-directories.yml)
 
-    - 03. [Configure an Apache Virtual Host](https://github.com/omotomiwa26/Ansible_Playbook/blob/main/03-configure-httpd-vhost.yml)
+03. [Configure an Apache Virtual Host](https://github.com/omotomiwa26/Ansible_Playbook/blob/main/03-configure-httpd-vhost.yml)
 
-    - 04. [Deploy an E-commerce Application](https://github.com/omotomiwa26/Ansible_Playbook/blob/main/04-deploy-ecommerce-app.yml)
+04. [Deploy an E-commerce Application](https://github.com/omotomiwa26/Ansible_Playbook/blob/main/04-deploy-ecommerce-app.yml)
 
-    - 05. [Deploy a Food Application](https://github.com/omotomiwa26/Ansible_Playbook/blob/main/05-deploy-food-app.yml)
+05. [Deploy a Food Application](https://github.com/omotomiwa26/Ansible_Playbook/blob/main/05-deploy-food-app.yml)
 
-    - 06. [Set a Maintenance Page](https://github.com/omotomiwa26/Ansible_Playbook/blob/main/06-set-maintenance-page.yml)
+06. [Set a Maintenance Page](https://github.com/omotomiwa26/Ansible_Playbook/blob/main/06-set-maintenance-page.yml)
 
-    - 07. [Perform General Ubuntu Server Configuration](https://github.com/omotomiwa26/Ansible_Playbook/blob/main/07-configure-ubuntu-server.yml)
+07. [Perform General Ubuntu Server Configuration](https://github.com/omotomiwa26/Ansible_Playbook/blob/main/07-configure-ubuntu-server.yml)
 
-    - 08. [Install Web Servers on Multiple OS](https://github.com/omotomiwa26/Ansible_Playbook/blob/main/08-install-webservers-multi-os.yml)
+08. [Install Web Servers on Multiple OS](https://github.com/omotomiwa26/Ansible_Playbook/blob/main/08-install-webservers-multi-os.yml)
 
-    - 09. [Deploy a Static HTML Website](https://github.com/omotomiwa26/Ansible_Playbook/blob/main/09-deploy-static-website.yml)
+09. [Deploy a Static HTML Website](https://github.com/omotomiwa26/Ansible_Playbook/blob/main/09-deploy-static-website.yml)
 
-    - 10. [Deploy a Dynamic Website from a Template](https://github.com/omotomiwa26/Ansible_Playbook/blob/main/10-deploy-dynamic-website-from-template.yml)
+10. [Deploy a Dynamic Website from a Template](https://github.com/omotomiwa26/Ansible_Playbook/blob/main/10-deploy-dynamic-website-from-template.yml)
 
-    - 11. [Demonstrate Ansible Variable Usage](https://github.com/omotomiwa26/Ansible_Playbook/blob/main/11-demonstrate-variable-usage.yml)
+11. [Demonstrate Ansible Variable Usage](https://github.com/omotomiwa26/Ansible_Playbook/blob/main/11-demonstrate-variable-usage.yml)
 
-    - 12. [Deploy an HTML Application](https://github.com/omotomiwa26/Ansible_Playbook/blob/main/12-deploy-html-app.yml)
+12. [Deploy an HTML Application](https://github.com/omotomiwa26/Ansible_Playbook/blob/main/12-deploy-html-app.yml)
 
-    - 13. [Deploy a PHP Application](https://github.com/omotomiwa26/Ansible_Playbook/blob/main/13-deploy-php-app.yml)
+13. [Deploy a PHP Application](https://github.com/omotomiwa26/Ansible_Playbook/blob/main/13-deploy-php-app.yml)
 
-    - 14. [Deploy an Angular Application](https://github.com/omotomiwa26/Ansible_Playbook/blob/main/14-deploy-angular-app.yml)
+14. [Deploy an Angular Application](https://github.com/omotomiwa26/Ansible_Playbook/blob/main/14-deploy-angular-app.yml)
 
-    - 15. [Add a File to a Directory](https://github.com/omotomiwa26/Ansible_Playbook/blob/main/add_file_to_dir.yaml)
+15. [Add a File to a Directory](https://github.com/omotomiwa26/Ansible_Playbook/blob/main/add_file_to_dir.yaml)
 
-    - 16. [Ensure a Directory Exists](https://github.com/omotomiwa26/Ansible_Playbook/blob/main/create_dir.yml)
+16. [Ensure a Directory Exists](https://github.com/omotomiwa26/Ansible_Playbook/blob/main/create_dir.yml)
 
 ## Prerequisites
 
